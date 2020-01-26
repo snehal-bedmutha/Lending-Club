@@ -16,7 +16,7 @@ We normalised different parameters and created binary features. We had to do tho
 
 Selected Features:
 
-loan_amnt – Amount of loan taken by the customer </li>
+<li> loan_amnt – Amount of loan taken by the customer </li>
 <li>	total_pymnt – Total payment made till that date </li>
 <li>	total_rec_late_fee – Total amount of late fee charged for delayed payments </li>
 <li>	int_rate – The interest rate on the loan </li>
